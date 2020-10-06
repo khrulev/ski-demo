@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Catamaran Black';
+	src: url('../fonts/catamaran_black.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/catamaran_black.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/catamaran_black.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/catamaran_black.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/catamaran_black.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/catamaran_black.svg#catamaran_black') format('svg'); /* Chrome < 4, Legacy iOS */
+}
